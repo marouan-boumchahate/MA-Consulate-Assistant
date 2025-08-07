@@ -32,7 +32,7 @@ An AI-powered chatbot assistant that helps users navigate the Moroccan Consulate
 
 2. **Install required packages**
    ```bash
-   pip install openai gradio venv
+   pip install openai gradio python-dotenv
    ```
 
 3. **Set up environment variables**
